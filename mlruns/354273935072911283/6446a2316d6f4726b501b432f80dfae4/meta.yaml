@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mamidabo/Documents/Projet_MLOps/mlruns/354273935072911283/6446a2316d6f4726b501b432f80dfae4/artifacts
+end_time: 1760225990081
+entry_point_name: ''
+experiment_id: '354273935072911283'
+lifecycle_stage: active
+run_id: 6446a2316d6f4726b501b432f80dfae4
+run_name: DT_Run_1_Depth5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760225980643
+status: 3
+tags: []
+user_id: mamidabo

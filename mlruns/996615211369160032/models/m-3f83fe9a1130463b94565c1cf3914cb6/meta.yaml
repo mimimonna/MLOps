@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mamidabo/Documents/Projet_MLOps/mlruns/996615211369160032/models/m-3f83fe9a1130463b94565c1cf3914cb6/artifacts
+creation_timestamp: 1760225274591
+experiment_id: '996615211369160032'
+last_updated_timestamp: 1760225295763
+model_id: m-3f83fe9a1130463b94565c1cf3914cb6
+model_type: null
+name: logistic_model
+source_run_id: 4d41160cd81d4cc9b79f57b80021f65f
+status: 2
+status_message: null

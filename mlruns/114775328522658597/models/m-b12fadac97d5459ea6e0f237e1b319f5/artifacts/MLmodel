@@ -1,0 +1,22 @@
+artifact_path: file:///Users/mamidabo/Documents/Projet_MLOps/mlruns/114775328522658597/models/m-b12fadac97d5459ea6e0f237e1b319f5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.4.0
+model_id: m-b12fadac97d5459ea6e0f237e1b319f5
+model_size_bytes: 2137323
+model_uuid: m-b12fadac97d5459ea6e0f237e1b319f5
+prompts: null
+run_id: a34156ee2fcd4ed7bc1afd44a136ffcb
+utc_time_created: '2025-10-11 23:43:33.893831'

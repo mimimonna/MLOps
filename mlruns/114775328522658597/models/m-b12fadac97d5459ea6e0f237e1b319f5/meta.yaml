@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mamidabo/Documents/Projet_MLOps/mlruns/114775328522658597/models/m-b12fadac97d5459ea6e0f237e1b319f5/artifacts
+creation_timestamp: 1760226213826
+experiment_id: '114775328522658597'
+last_updated_timestamp: 1760226224291
+model_id: m-b12fadac97d5459ea6e0f237e1b319f5
+model_type: null
+name: random_forest_model
+source_run_id: a34156ee2fcd4ed7bc1afd44a136ffcb
+status: 2
+status_message: null

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/mamidabo/Documents/Projet_MLOps/mlruns/996615211369160032
+creation_time: 1760225274067
+experiment_id: '996615211369160032'
+last_update_time: 1760225274067
+lifecycle_stage: active
+name: 1_Logistic_Regression_Risk_Model

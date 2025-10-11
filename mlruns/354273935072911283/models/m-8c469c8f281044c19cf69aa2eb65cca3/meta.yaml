@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mamidabo/Documents/Projet_MLOps/mlruns/354273935072911283/models/m-8c469c8f281044c19cf69aa2eb65cca3/artifacts
+creation_timestamp: 1760225980761
+experiment_id: '354273935072911283'
+last_updated_timestamp: 1760225990067
+model_id: m-8c469c8f281044c19cf69aa2eb65cca3
+model_type: null
+name: decision_tree_model
+source_run_id: 6446a2316d6f4726b501b432f80dfae4
+status: 2
+status_message: null
