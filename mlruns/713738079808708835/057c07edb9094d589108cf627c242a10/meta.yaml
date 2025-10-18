@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mamidabo/Documents/Projet_MLOps/mlruns/713738079808708835/057c07edb9094d589108cf627c242a10/artifacts
+end_time: 1760791545485
+entry_point_name: ''
+experiment_id: '713738079808708835'
+lifecycle_stage: active
+run_id: 057c07edb9094d589108cf627c242a10
+run_name: selection_logistic
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760791545396
+status: 3
+tags: []
+user_id: mamidabo
